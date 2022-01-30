@@ -5,3 +5,8 @@ width: 330px;
  border-style: solid;
  border-color: red;
 }
+.arejaKatse{
+  border-style: groove;
+  padding: 20px 40px 30px 90px;
+  margin: 50% 600% 50% 800%;
+}
