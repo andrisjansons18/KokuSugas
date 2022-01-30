@@ -12,9 +12,7 @@ width: 330px;
   margin: auto;
  display: flex;
 }
-.anket{
- font-size: 40px;
-}
 .button{
 margin-left: 60%;
+ font-size: 40px;
 }
