@@ -9,7 +9,7 @@ width: 330px;
   border-style: groove;
   text-align: center;
   padding: auto;
-  margin: auto;
+  margin: 10% 15% 10% 15%;
  display: flex;
 }
 .button{
