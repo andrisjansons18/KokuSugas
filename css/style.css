@@ -10,4 +10,5 @@ width: 330px;
  text-align: center;
   padding: 20px 40px 30px 90px;
   margin: 20% 40% 20% 40%;
+ display: flex;
 }
