@@ -8,7 +8,7 @@ width: 330px;
 .arejaKatse{
   border-style: groove;
   text-align: center;
-  padding: 5% 5% 5% 5%;
+  padding: auto;
   margin: auto;
  display: flex;
 }
